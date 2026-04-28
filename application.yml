@@ -23,4 +23,4 @@ management:
     app:
       name: mes-service
  
-    commit: a1b2c3d
+ 
