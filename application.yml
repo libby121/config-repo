@@ -20,10 +20,7 @@ management:
       liveness:
         include: ping
   info:
-  app:
-    name: mes-service
-    version: 1.0.3
-  build:
-    artifact: gauche
-  git:
+    app:
+      name: mes-service
+ 
     commit: a1b2c3d
