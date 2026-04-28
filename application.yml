@@ -19,3 +19,11 @@ management:
         include: db
       liveness:
         include: ping
+  info:
+  app:
+    name: mes-service
+    version: 1.0.3
+  build:
+    artifact: gauche
+  git:
+    commit: a1b2c3d
